@@ -1,0 +1,11 @@
+{
+  "name": "grupo/php-crud-paas",
+  "description": "CRUD de productos en PHP nativo (PDO) con MySQL administrado - Parcial 2, Informática en la Nube",
+  "type": "project",
+  "require": {
+    "php": ">=8.2",
+    "ext-mbstring": "*",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  }
+}
