@@ -119,9 +119,10 @@ function vista(string $titulo, string $contenido, string $pie = ''): void
 </head>
 <body>
 <header>
-  <h1>Inventario de productos</h1>
-  <small>App 1 · PHP nativo + PDO + MySQL administrado · Desplegada en Railway</small>
+    <h1>Inventario de productos</h1>
+    <small>App 1 · PHP nativo + PDO + MySQL administrado · Desplegada en Vercel</small>
 </header>
+
 <main>
 <?= $contenido ?>
 </main>
