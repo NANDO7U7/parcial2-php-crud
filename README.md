@@ -18,3 +18,5 @@ La tabla `productos` se crea automáticamente en el primer arranque.
 ## Rutas
 - `/` — listado, alta, edición y baja de productos
 - `/?accion=health` — estado de la aplicación y de la conexión a la BD (JSON)
+
+Actualizacion automatica Git-Ops
